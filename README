@@ -4,7 +4,7 @@ MeshPy Addon for Blender
 # ***** Credits *****                                                    
 #======================================================================#
 
-# thanks to Andreas Klöckner for MeshPy
+# thanks to Andreas KlÃ¶ckner for MeshPy
 #   http://mathema.tician.de/software/meshpy
 
 # thanks to scorpin81 (irc#pythonblender) for linux lib compiling
@@ -39,7 +39,7 @@ MeshPy:
 - set softbody to split meshes
     - set collision to splits?
 
-- add tetra amount preview option (skipp mesh calculations and just add tetamount to gui)
+- add tetra amount preview option (skip mesh calculations and just add tetra amount to gui)
 
 - add splits to new group
 - copy material from source object
